@@ -1,5 +1,3 @@
-# hello-word
-Este repositorio es para practicar el GitHub flujo 
 # Mini Travel Guide: My Favorite City - Barcelona
 
 Hello! My name is **Nouha**. I am a *serious*, *responsible*, and *helpful* person who always strives to support the people around me. I take my commitments seriously, value organization, and love exploring new places while learning about different cultures.
